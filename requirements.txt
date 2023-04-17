@@ -6,3 +6,6 @@ spacy
 gensim
 natasha
 keras
+pymystem
+nltk
+pickle
